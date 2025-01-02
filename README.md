@@ -39,8 +39,8 @@ The project includes several visualizations that highlight key trends in the piz
 6. **Top 5 Best Sellers by Total Pizzas Sold**: A bar chart showcasing the top 5 best-selling pizzas based on the number of pizzas sold.
 7. **Bottom 5 Worst Sellers by Total Pizzas Sold**: A bar chart showing the bottom 5 worst-selling pizzas based on total sales.
 
-# Dashboard View 
- - <a href = "https://github.com/Sahil302002/Pizza_Sales_Analysis/blob/main/Pizza%20Dashboard.png">Dasboard</a>
+# Dashboard Link
+ - <a href = "https://github.com/Sahil302002/Pizza_Sales_Analysis/blob/main/Pizza%20Sales%20Excel%20Analysis.xlsm">Dasboard</a>
 
 ## Tools Used
 
