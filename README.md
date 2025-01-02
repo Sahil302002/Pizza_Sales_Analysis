@@ -46,3 +46,6 @@ The project includes several visualizations that highlight key trends in the piz
 
 - **Microsoft Excel**: Excel was used to clean, process, analyze, and visualize the pizza sales data. It includes functions such as `SUM`, `AVERAGE`, `COUNTIF`, and Excel’s charting features to create insights and reports.
 - **Excel Charts**: Various types of charts were used to visually represent the data, including bar charts, line charts, pie charts, and funnel charts.
+  # Dashboard
+  ![Pizza Dashboard](https://github.com/user-attachments/assets/7ea91da9-5a47-4905-9d65-e1c98883b5d8)
+
