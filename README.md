@@ -1,8 +1,10 @@
-# Pizza Sales Dashboard Analysis
+# Pizza Sales Dashboard ( Interactive Dashboard Creation Using Microsoft Excel)
 
 ## Project Overview
 
 This project involves analyzing pizza sales data to gain insights into the business performance of a pizza restaurant. The primary goal is to calculate key performance indicators (KPIs) and create visualizations to help identify trends in customer preferences, peak ordering hours, and best-selling pizzas. The dataset consists of approximately **48,500 records** and is analyzed and visualized using Microsoft Excel.
+# Dataset used
+- <a href = "https://github.com/Sahil302002/Pizza_Sales_Analysis/blob/main/pizza_sales%20excel%20file.xlsx" > Dataset</a>
 
 
 ## Data Processing
